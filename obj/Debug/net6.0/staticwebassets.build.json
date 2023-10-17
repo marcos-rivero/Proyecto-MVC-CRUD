@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "SVGFiDbG0bUhw26k5HQK0GK60OWBfpuQUVTEFXde+eg=",
+  "Source": "ProyectoMVC",
+  "BasePath": "_content/ProyectoMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProyectoMVC\\wwwroot",
+      "Source": "ProyectoMVC",
+      "ContentRoot": "C:\\Users\\UNSTA\\ProyectoMVC\\wwwroot\\",
+      "BasePath": "_content/ProyectoMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\UNSTA\\ProyectoMVC\\wwwroot\\index.html",
+      "SourceId": "ProyectoMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\UNSTA\\ProyectoMVC\\wwwroot\\",
+      "BasePath": "_content/ProyectoMVC",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
