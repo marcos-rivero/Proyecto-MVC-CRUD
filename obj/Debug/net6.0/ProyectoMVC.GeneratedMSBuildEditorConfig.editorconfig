@@ -8,9 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoMVC
 build_property.RootNamespace = ProyectoMVC
-build_property.ProjectDir = C:\Users\UNSTA\ProyectoMVC\
+build_property.ProjectDir = c:\Users\UNSTA\ProyectoMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\UNSTA\ProyectoMVC
+build_property.MSBuildProjectDirectory = c:\Users\UNSTA\ProyectoMVC
 build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/UNSTA/ProyectoMVC/Views/App/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/UNSTA/ProyectoMVC/Views/App/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFdlbGNvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

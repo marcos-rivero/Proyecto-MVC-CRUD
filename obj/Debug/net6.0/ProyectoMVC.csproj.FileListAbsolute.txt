@@ -20,3 +20,5 @@ C:\Users\UNSTA\ProyectoMVC\obj\Debug\net6.0\ProyectoMVC.pdb
 C:\Users\UNSTA\ProyectoMVC\obj\Debug\net6.0\ProyectoMVC.genruntimeconfig.cache
 C:\Users\UNSTA\ProyectoMVC\obj\Debug\net6.0\ref\ProyectoMVC.dll
 C:\Users\UNSTA\ProyectoMVC\bin\Debug\net6.0\ProyectoMVC.staticwebassets.runtime.json
+C:\Users\UNSTA\ProyectoMVC\obj\Debug\net6.0\ProyectoMVC.RazorAssemblyInfo.cache
+C:\Users\UNSTA\ProyectoMVC\obj\Debug\net6.0\ProyectoMVC.RazorAssemblyInfo.cs
