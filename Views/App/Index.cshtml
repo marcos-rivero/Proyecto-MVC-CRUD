@@ -1,13 +1,8 @@
 @{
 	ViewBag.Title = "Home Page";
 }
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>@ViewBag.Title</title>
-		<meta charset="UTF-8">
-	</head>
-	<body>
-		<h1>@ViewBag.Title</h1>
-	</body>
-</html>
+<ul>
+    <li><a asp-controller="App" asp-action="Edit">El Padrino</a></li>
+    <li><a asp-controller="App" asp-action="Edit">Argentina - 1985</a></li>
+</ul>
+<a asp-controller="App" asp-action="About">Acerca de Nosotros</a>

@@ -8,17 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProyectoMVC
 build_property.RootNamespace = ProyectoMVC
-build_property.ProjectDir = c:\Users\UNSTA\ProyectoMVC\
+build_property.ProjectDir = C:\Users\UNSTA\ProyectoMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\UNSTA\ProyectoMVC
+build_property.MSBuildProjectDirectory = C:\Users\UNSTA\ProyectoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/UNSTA/ProyectoMVC/Views/App/Index.cshtml]
+[C:/Users/UNSTA/ProyectoMVC/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/ProyectoMVC/Views/App/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEFib3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/ProyectoMVC/Views/App/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/ProyectoMVC/Views/App/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/UNSTA/ProyectoMVC/Views/App/Welcome.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFdlbGNvbWUuY3NodG1s
+[C:/Users/UNSTA/ProyectoMVC/Views/App/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/ProyectoMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/UNSTA/ProyectoMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
