@@ -1,8 +1,22 @@
+@model IEnumerable<PeliculaViewModel>
 @{
 	ViewBag.Title = "Home Page";
 }
-<ul>
-    <li><a asp-controller="App" asp-action="Edit">El Padrino</a></li>
-    <li><a asp-controller="App" asp-action="Edit">Argentina - 1985</a></li>
-</ul>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Genero</th>
+            <th><a asp-controller="App" asp-action="Edit" class="btn btn-primary">Agregar Peliculas</a></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model){
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Genero</td>
+            </tr>
+        }        
+    </tbody>
+</table>
 <a asp-controller="App" asp-action="About">Acerca de Nosotros</a>
